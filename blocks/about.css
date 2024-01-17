@@ -16,7 +16,6 @@
 .about {
   color: #fff;
   background-color: #0a2850;
-  background-image: url(../images/);
   background-repeat: no-repeat;
   padding: 119px 80px 173px 80px;
   display: flex;
@@ -47,6 +46,11 @@
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
+  margin: 0 0 20px 0;
+}
+
+.about__paragraph:last-child {
+  margin-bottom: 0;
 }
 
 .about__circle {
@@ -62,5 +66,4 @@
 
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out 0s infinite;
-  background-color: #2f80ed;
 }

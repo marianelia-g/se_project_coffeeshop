@@ -22,6 +22,8 @@
   line-height: 30px;
   max-width: 780px;
   margin: 24px auto 100px auto;
+  display: flex;
+  text-align: center;
 }
 
 .menu__cards {
