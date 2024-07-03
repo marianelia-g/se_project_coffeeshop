@@ -39,12 +39,15 @@
   margin: 28px 0 0;
 }
 .header__image {
+  z-index: 0;
   max-width: 646px;
   height: 568px;
   position: absolute;
+  border-radius: 50%;
   top: 124px;
   right: 5px;
 }
+
 .header__footer {
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;

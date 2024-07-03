@@ -11,6 +11,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Site Live at:
 
-Add your ideas here :)
+https://marianelia-g.github.io/se_project_coffeeshop/
