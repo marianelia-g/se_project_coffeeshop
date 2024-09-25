@@ -11,6 +11,11 @@
   margin: 0 0 32px;
 }
 
+.card__list {
+  padding: 0;
+  margin: 0;
+}
+
 .card__list-item {
   display: flex;
   justify-content: space-between;
